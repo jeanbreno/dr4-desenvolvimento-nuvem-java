@@ -1,0 +1,3 @@
+br\edu\infnet\CurrentPrice\CurrentPriceApplication.class
+br\edu\infnet\CurrentPrice\Currency.class
+br\edu\infnet\CurrentPrice\IClienteAPI.class
